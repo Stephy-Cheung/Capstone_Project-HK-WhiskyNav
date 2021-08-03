@@ -1,0 +1,28 @@
+.slick {
+    &-slide {
+        max-width: 33.33%;
+
+        @media screen and (max-width: 991px) {
+            max-width: 50%;
+        }
+
+
+        @media screen and (max-width: 575px) {
+            max-width: 100%;
+        }
+    }
+}
+
+.slider {
+    &__item {
+
+            p {
+            text-align: center;
+        }
+    }
+}
+
+.slick-dots li button:before {
+    color: white!important;
+}
+    

@@ -1,0 +1,40 @@
+.accordion {
+    &__toggle-wrap {
+        display: flex;
+        justify-content: flex-end;
+
+        .accordion__collapse.show ~ & {
+            .accordion {
+                &__toggle {
+                    &-expand {
+                        display: none;
+                    }
+
+                    &-collapse {
+                        display: inline-block;
+                    }
+                }
+            }
+        }
+    }
+
+
+    &__toggle {
+        padding-left: 0;
+        padding-right: 0;
+        
+        &:hover, &:focus {
+            text-decoration: underline;
+        }
+
+        &-expand {
+            display: inline-block;
+        }
+
+        &-collapse {
+            display: none;
+        }
+    }
+
+
+}

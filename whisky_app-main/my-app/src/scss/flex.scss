@@ -1,0 +1,40 @@
+.flex {
+    display: flex;
+
+    &:hover, &:focus {
+        text-decoration: none;
+
+        .flex {
+            &__media {
+                .placeholder-center {
+                    &__item {
+                        transform: scale(1.15);
+                    }
+                }
+            }
+        }
+
+
+    }
+
+    &__media {
+        margin-right: 30px;
+        max-width: 200px;
+        flex-basis: 200px;
+        .placeholder-center {
+            &__item {
+                transition: transform 0.3s;
+            }
+        }
+    }
+
+    &__body {
+        padding-top: 20px;
+    }
+
+    &__title {
+        font-size: 20px;
+        font-weight: 700;
+        color: white!important
+    }
+}

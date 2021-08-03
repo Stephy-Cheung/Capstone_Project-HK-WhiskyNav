@@ -1,0 +1,16 @@
+.whisky {
+    &__title {
+
+        margin-bottom: 30px;
+    }
+
+    &__title-bottle {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+    &__title-vol {
+        display: inline-block;
+        font-size: 24px;
+    }
+}

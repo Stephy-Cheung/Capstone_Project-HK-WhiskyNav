@@ -1,0 +1,49 @@
+.price-info {
+    &__distribution {
+        margin-bottom: 40px;
+    }
+
+    &__shops {
+        margin-top: -20px;
+    }
+    
+    &__shop-item {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 0;
+        @media screen and (max-width: 767px) {
+            display: block;
+        }
+
+
+
+        & + & {
+            border-top: 1px solid #dddddd;
+        }
+
+        &-shop {
+            font-size: 28px;
+
+            @media screen and (max-width: 767px) {
+              font-size: 24px;
+            }
+        }
+
+        &-info {
+            margin-right: 20px;
+            width: 100%;
+            @media screen and (min-width: 768px) {
+                > *:last-child {
+                    margin-bottom: 0;
+                }
+            }
+        }
+
+        &-price {
+            font-weight: 700;
+            margin-bottom: 0;
+            font-size: 20px;
+        }
+        
+    }
+}

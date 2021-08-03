@@ -1,0 +1,23 @@
+.recommend {
+    display: block;
+    max-width: 450px;
+    margin: 0 auto;
+    &:hover, &:focus {
+        text-decoration: none;
+
+        .recommend {
+            &__title {
+                color: #C1A480;
+            }
+        }
+    }
+    
+    &__title {
+        color: #ffffff;
+        margin-top: 20px;
+        font-weight: 700;
+        transition: color 0.3s;
+        text-decoration: none !important;
+    }
+
+}

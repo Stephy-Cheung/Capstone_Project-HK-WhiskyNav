@@ -1,0 +1,101 @@
+Name,Year,watsons_name,watsons_link,Price,Stock,Volume
+Lagavulin,16,Lagavulin 16 Years Old Single Malt Whisky,https://www.watsonswine.com/en/wine/lagavulin-16-years-old-single-malt-whisky/p/BP_166012,910,True,700ml
+Ardbeg,10,Ardbeg 10 Year Old Islay Single Malt Whisky,https://www.watsonswine.com/en/wine/ardbeg-10-years-islay-single-malt-whisky/p/BP_129305,680,True,700ml
+Balvenie,12,Balvenie Doublewood 12 Years Single Malt Scotch Whisky,https://www.watsonswine.com/en/wine/balvenie-doublewood-12-years-single-malt-scotch-whisky/p/BP_100327,598,True,700ml
+Laphroaig,10,Laphroaig 10 Year Old Single Malt Whisky,https://www.watsonswine.com/en/wine/laphroaig-10-year-old-single-malt-whisky/p/BP_128746,728,False,700ml
+Glenmorangie,10,,,,,
+Dalwhinnie,15,Dalwhinnie 15 Year Old Single Malt Whisky,https://www.watsonswine.com/en/wine/dalwhinnie-15-year-old-single-malt-whisky/p/BP_166009,650,True,Not Available
+Bowmore,12,Bowmore 12 Years Islay Single Malt Scotch Whisky,https://www.watsonswine.com/en/wine/bowmore-12-years-islay-single-malt-scotch-whisky/p/BP_123326,650,False,700ml
+Glenfiddich,12,,,,,
+Talisker,10,Talisker 10 Year Old Single Malt Whisky,https://www.watsonswine.com/en/wine/talisker-10-year-old-single-malt-whisky/p/BP_123377,528,True,700ml
+Bunnahabhain,12,Bunnahabhain Islay 12 Years Single Malt Scotch Whisky,https://www.watsonswine.com/en/wine/bunnahabhain-islay-12-years-single-malt-scotch-whisky/p/BP_306081,688,True,700ml
+Oban,14,Oban 14 Year Old Scotch Whisky,https://www.watsonswine.com/en/wine/oban-14-year-old-scotch-whisky/p/BP_166010,720,True,Not Available
+Bowmore,15,,,,,
+Glendronach,12,The Glendronach 12 Year Old Original,https://www.watsonswine.com/en/wine/the-glendronach-12-year-old-original/p/BP_306164,498,True,700ml
+Glendronach,21,,,,,
+Glenmorangie,12,Glenmorangie Single Malt The Lasanta 12 Year Old,https://www.watsonswine.com/en/wine/glenmorangie-single-malt-the-lasanta-12-year-old/p/BP_380148,535,True,700ml
+Caol Ila,12,Caol Ila 12 Years Old,https://www.watsonswine.com/en/wine/caol-ila-12-years-old/p/BP_483834,580,True,700ml
+Cragganmore,12,Cragganmore 12 Years Old Single Malt Scotch Whisky,https://www.watsonswine.com/en/wine/cragganmore-12-years-old-single-malt-scotch-whisky/p/BP_123372,580,True,700ml
+Glenfarclas,15,,,,,
+Glenfiddich,15,Glenfiddich 15 Year Old Single Malt Whisky,https://www.watsonswine.com/en/wine/glenfiddich-15-year-old-single-malt-whisky/p/BP_129302,568,True,700ml
+Glenlivet,12,The Glenlivet 12 Year Old Single Malt Whisky,https://www.watsonswine.com/en/wine/the-glenlivet-12-year-old-single-malt-whisky/p/BP_389846,540,True,700ml
+Aberlour,18,,,,,
+Glendronach,15,The Glendronach 15 Year Old Revival,https://www.watsonswine.com/en/wine/the-glendronach-15-year-old-revival/p/BP_347575,788,True,700ml
+Cardhu,12,,,,,
+Glendronach,18,The Glendronach 18 Year Old Allardice,https://www.watsonswine.com/en/wine/the-glendronach-18-year-old-allardice/p/BP_159267,1850,True,700ml
+Bushmills,10,,,,,
+Highland Park,18,Highland Park 18 Year Old Single Malt Whisky,https://www.watsonswine.com/en/wine/highland-park-18-year-old-single-malt-whisky/p/BP_132251,1330,True,700ml
+Glenfarclas,25,,,,,
+Glenfarclas,12,,,,,
+Glenfiddich,18,Glenfiddich 18 Year Old Single Malt Scotch Whisky,https://www.watsonswine.com/en/wine/glenfiddich-18-year-old-single-malt-scotch-whisky/p/BP_129303,1130,True,700ml
+Glenlivet,18,The Glenlivet 18 Year Old Single Malt Scotch Whisky,https://www.watsonswine.com/en/wine/the-glenlivet-18-year-old-single-malt-scotch-whisky/p/BP_196154,1350,True,700ml
+Aberlour,12,Aberlour 12 YO Single Malt Scotch Whisky,https://www.watsonswine.com/en/wine/aberlour-12-yo-single-malt-scotch-whisky/p/BP_473690,668,True,700ml
+Bowmore,18,BOWMORE 18 YEARS SINGLE MALT,https://www.watsonswine.com/en/wine/bowmore-18-years-single-malt/p/BP_120484,1700,True,700ml
+Auchentoshan,12,,,,,
+Glenkinchie,12,Glenkinchie 12 Year Old Scotch Whisky,https://www.watsonswine.com/en/wine/glenkinchie-12-year-old-scotch-whisky/p/BP_483835,650,True,700ml
+The Singleton of Dufftown,12,,,,,
+Edradour,10,,,,,
+Springbank,10,,,,,
+Glenfarclas,21,,,,,
+Aberlour,15,,,,,
+Glenfarclas,18,,,,,
+Benriach,12,,,,,
+Macallan,12,,,,,
+Dalmore,15,,,,,
+Clynelish,14,CLYNELISH 14 YEARS OLD SINGLE MALT,https://www.watsonswine.com/en/wine/clynelish-14-years-old-single-malt/p/BP_368968,680,True,Not Available
+Bakers,7,,,,,
+Edradour,12,,,,,
+Laphroaig,18,,,,,
+Johnnie Walker,12,Johnnie Walker Black Label,https://www.watsonswine.com/en/wine/johnnie-walker-black-label/p/BP_324182,345,True,700ml
+Redbreast,12,,,,,
+Ledaig,10,,,,,
+Springbank,15,,,,,
+Bushmills,16,,,,,
+Glenlivet,15,The Glenlivet 15 Year Old French Oak Reserve Single Malt Scotch Whisky,https://www.watsonswine.com/en/wine/the-glenlivet-15-year-old-french-oak-reserve-single-malt-scotch-whisky/p/BP_195853,760,True,700ml
+Highland Park,12,,,,,
+Deanston,12,,,,,
+Glen Garioch,12,,,,,
+Johnnie Walker,15,,,,,
+Arran,10,,,,,
+Tobermory,10,,,,,
+Benriach,10,,,,,
+Benriach,15,,,,,
+Bushmills,21,,,,,
+Glengoyne,21,,,,,
+Benromach,15,,,,,
+Balvenie,16,,,,,
+Lochnagar,12,,,,,
+Tomatin,12,,,,,
+AnCnoc,12,,,,,
+Dalmore,18,,,,,
+Aberlour,16,,,,,
+Dalmore,12,,,,,
+Talisker,18,Talisker 18 Year Old Single Malt Whisky,https://www.watsonswine.com/en/wine/talisker-18-year-old-single-malt-whisky/p/BP_488572,1620,True,700ml
+Benromach,10,,,,,
+Blair Athol,12,,,,,
+Tomatin,14,,,,,
+Tomintoul,16,,,,,
+Glen Garioch,15,,,,,
+Lagavulin,8,,,,,
+Pulteney,12,,,,,
+Ballechin,10,,,,,
+Arran,14,,,,,
+Glenmorangie,14,,,,,
+Tomatin,18,,,,,
+Craigellachie,13,,,,,
+Port Charlotte,10,Bruichladdich Port Charlotte 10 Year Old Single malt Scotch Whisky,https://www.watsonswine.com/en/wine/bruichladdich-port-charlotte-10-year-old-single-malt-scotch-whisky/p/BP_411750,798,True,700ml
+Glenlivet,21,,,,,
+Caol Ila,25,,,,,
+Cardhu,15,,,,,
+Jura,10,,,,,
+Macallan,18,,,,,
+Redbreast,15,,,,,
+Glengoyne,18,,,,,
+Glengoyne,10,,,,,
+Ardbeg,5,Ardbeg Wee Beastie 5 Year Old Single Malt Whisky,https://www.watsonswine.com/en/wine/ardbeg-wee-beastie-5-year-old-single-malt-whisky/p/BP_421896,545,True,700ml
+Glenallachie,12,,,,,
+Chivas Regal,18,Chivas Regal 18 Years Scotch Whisky,https://www.watsonswine.com/en/wine/chivas-regal-18-years-scotch-whisky/p/BP_174300,698,True,700ml
+Bruichladdich,the classic laddie,Bruichladdich Classic Laddie Scottish Barley,https://www.watsonswine.com/en/wine/bruichladdich-classic-laddie-scottish-barley/p/BP_460462,668,True,700ml
+Glen Moray,15,,,,,
+Aberfeldy,16,,,,,
+Glenallachie,10,,,,,

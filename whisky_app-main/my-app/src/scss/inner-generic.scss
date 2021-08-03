@@ -1,0 +1,54 @@
+body {
+    color: #fff;
+    background-color: #000;
+}
+
+.inner-container {
+    padding: 60px 0;
+
+    @media screen and (max-width: 991px) {
+       padding: 40px 0; 
+    }
+}
+
+.container {
+    max-width: 768px;
+    padding: 0 25px;
+
+
+    @media screen and (max-width: 767px) {
+        padding: 0 20px;
+    }
+}
+
+.section {
+    & + & {
+        margin-top: 50px;
+    }
+}
+
+h2 {
+    margin-bottom: 25px;
+
+    @media screen and (max-width: 767px){
+        margin-bottom: 20px;
+    }
+}
+
+.error {
+    color: #ff0000
+}
+
+.copyright {
+    margin: 50px 0 0;
+    color: #fff;
+    font-size: 14px;
+}
+
+a, .btn-link {
+    color: #C1A480;
+
+    &:hover, &:focus {
+        color: #CF937E;
+    }
+}

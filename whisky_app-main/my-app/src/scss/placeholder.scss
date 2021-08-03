@@ -1,0 +1,46 @@
+.placeholder-center {
+    position: relative;
+    height: 0;
+    width: 100%;
+    overflow: hidden;
+
+    &--1-to-1 {
+        padding-bottom: 100%;
+    }
+
+    &--wordcloud {
+        padding-bottom: 75%;
+    }
+
+    &--w-100 {
+        .placeholder-center {
+            &__item {
+                width: 100%;
+            }
+        }
+    }
+
+    &--align-left {
+        .placeholder-center {
+            &__item {
+                margin: auto 0 auto auto
+            }
+        }
+    }
+
+    &__item {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        max-width: 100%;
+        max-height: 100%;
+    }
+    
+}
+
+.bottle {
+    width: 100%;
+}
