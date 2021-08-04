@@ -4,7 +4,7 @@
 
 ## Project demostration 
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/Ea1PYAlRlM4)](https://youtu.be/Ea1PYAlRlM4)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/Ea1PYAlRlM4/mq1.jpg?sqp=CODZqIgG&rs=AOn4CLCg_Mn4ftrkE6TMOY2pap9fAsuIZQ)](https://youtu.be/Ea1PYAlRlM4)
 
 ## Table of Contents
 
@@ -26,13 +26,15 @@
 
 <img src="image/outline.png" width="800">
 
-User can easily start their whisky search by <br>
+User can start their whisky search by <br>
 
-1) Image -Identify the whisky distillery and year by our image recognition model <br>
-OR <br>
-2) Expected whisky flavour -Provide customised whisky recommendation by our recommendation system<br>
+**Image** <br>
+-Identify the whisky distillery and year by our image recognition model <br>
 <br>
-After our user chose their target whisky, we will provide the price range, shop address, along with another 5 recommendations of whisky with similar or exact opposite taste to the user.<br>
+**Expected whisky flavour**<br> 
+-Provide customised whisky recommendation by our recommendation system<br>
+<br>
+After our user choose their target whisky, we will provide the price range, shop address, along with another 5 recommendations of whisky with similar or exact opposite taste to the user.<br>
 
 Users can further explore other whiskies by clicking on the 5 recommendations or start new search by new images or flavours.
 
