@@ -1,7 +1,7 @@
 # HK WhiskyNav 
 
 <img src="image/banner.png" width="600">
-
+<img src="image/one-page.png" width="1200">
 ## Project demostration 
 
 https://user-images.githubusercontent.com/80611789/128134094-1f6e007d-0f30-4c33-a44f-ccedf498ba92.mp4
